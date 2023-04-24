@@ -1,4 +1,4 @@
 # Unity-in-Action-2
-This is my study unity project, that contains some scripts to show my current coding skills
-# You can find it here: 
+This is my study unity project, that contains some scripts to show my current coding skills /n
+You can find it here: 
 Unity-in-Action-2/Assets/Scripts/
